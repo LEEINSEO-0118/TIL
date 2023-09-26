@@ -10,6 +10,8 @@
 - seaborn
 
 ## Machine Learning
+* [Data split](https://github.com/LEEINSEO-0118/TIL/blob/main/Mahchine_learning/Data_split.md)
+* [Linear Regression and Logistic Regression](https://github.com/LEEINSEO-0118/TIL/blob/main/Mahchine_learning/Regression.md)
 
 ## Deep Learning
 
