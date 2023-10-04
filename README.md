@@ -9,13 +9,16 @@
 - matplotlib
 - seaborn
 
-## Machine Learning
+## [Machine Learning](https://github.com/LEEINSEO-0118/TIL/tree/main/Mahchine_learning)
 * [Data split](https://github.com/LEEINSEO-0118/TIL/blob/main/Mahchine_learning/Data_split.md)
-* [Linear Regression and Logistic Regression](https://github.com/LEEINSEO-0118/TIL/blob/main/Mahchine_learning/Regression.md)
+* [Regression(Linear Regression, Logistic Regression)](https://github.com/LEEINSEO-0118/TIL/blob/main/Mahchine_learning/Regression.md)
+* [Classification(Linear Classifier, Decision Tree, Random Forest)](https://github.com/LEEINSEO-0118/TIL/blob/main/Mahchine_learning/Classification.md)
+* [Clustering(K-Means, HAC)](https://github.com/LEEINSEO-0118/TIL/blob/main/Mahchine_learning/Clustering.md)
+* [Boosting(Ada, GBM, XGBoost, LightGBM, CatBoost)](https://github.com/LEEINSEO-0118/TIL/blob/main/Mahchine_learning/Boosting.md)
 
 ## Deep Learning
 
-## Git
+## [Git](https://github.com/LEEINSEO-0118/TIL/tree/main/git)
 - [명령어 정리 링크](https://medium.com/@dlstj1506/git-3bb137153028)
 - [깃 시작하기](https://github.com/LEEINSEO-0118/TIL/blob/main/git/230915_git_%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.md)
 - [깃으로 팀 프로젝트 진행하기](https://github.com/LEEINSEO-0118/TIL/blob/main/git/git_teamproject.md)
