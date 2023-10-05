@@ -2,7 +2,7 @@
 [블로그 정리 글](https://medium.com/@dlstj1506/machine-learning-boosting-ada-boost-gradient-boosting-machine-xgboost-lightgbm-catboost-d8750ac415ed)
 약한 분류기를 조합하여 성능이 좋은 강한 분류기를 만드는 것 (Random Forest와 동일한 방향), Ensemble model
 
-## Ada Boost
+## AdaBoost
 * 이전 트리를 보완하는 방식으로 학습
 * 데이터 학습 후 model이 오분류한 데이터에 가중치를 준 후 재학습
 
@@ -24,3 +24,6 @@
 * leaf-wise tree growth를 사용하여 split point를 찾음으로 작은 메모리로도 빠르고 성능이 좋은 트리를 만듦
 
 ## CatBoost(CAT)
+* Kaggle과 같은 분석 대회에서 많이 사용
+* Categorical feature에 대해 학습이 잘 된다. (자동으로 인코딩 해줌)
+* parameter tuning이 쉽고 GPU 최적화가 잘 되어있다.
