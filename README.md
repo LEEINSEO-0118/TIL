@@ -9,12 +9,14 @@
 - matplotlib
 - seaborn
 
-## [Machine Learning](https://github.com/LEEINSEO-0118/TIL/tree/main/Mahchine_learning)
+## Machine Learning
 * [Data split](https://github.com/LEEINSEO-0118/TIL/blob/main/Mahchine_learning/Data_split.md)
 * [Regression(Linear Regression, Logistic Regression)](https://github.com/LEEINSEO-0118/TIL/blob/main/Mahchine_learning/Regression.md)
 * [Classification(Linear Classifier, Decision Tree, Random Forest)](https://github.com/LEEINSEO-0118/TIL/blob/main/Mahchine_learning/Classification.md)
 * [Clustering(K-Means, HAC)](https://github.com/LEEINSEO-0118/TIL/blob/main/Mahchine_learning/Clustering.md)
 * [Boosting(Ada, GBM, XGBoost, LightGBM, CatBoost)](https://github.com/LEEINSEO-0118/TIL/blob/main/Mahchine_learning/Boosting.md)
+* [EDA and Feature Engineering](https://github.com/LEEINSEO-0118/TIL/blob/main/Mahchine_learning/EDA_and_FeatureEngineering.md)
+* [Model Training](https://github.com/LEEINSEO-0118/TIL/blob/main/Mahchine_learning/Model_Training.md)
 
 ## Deep Learning
 
