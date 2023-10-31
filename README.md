@@ -19,6 +19,9 @@
 * [Model Training](https://github.com/LEEINSEO-0118/TIL/blob/main/Mahchine_learning/Model_Training.md)
 
 ## Deep Learning
+* [Basic of Deep Learning](https://github.com/LEEINSEO-0118/TIL/blob/main/Deep_learning/basic_of_DL.md)
+* [Convolutional Neural Network](https://github.com/LEEINSEO-0118/TIL/blob/main/Deep_learning/CNN.md)
+* [RNN-LSTM-GRU](https://github.com/LEEINSEO-0118/TIL/blob/main/Deep_learning/RNN_LSTM_GRU.md)
 
 ## Git
 - [명령어 정리 링크](https://medium.com/@dlstj1506/git-3bb137153028)
